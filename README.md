@@ -58,14 +58,6 @@ For macOS:
 Download MongoDB Compass from the official website: MongoDB Compass (https://www.mongodb.com/try/download/compass).
 Open the downloaded .dmg file and drag MongoDB Compass to your Applications folder.
 
- 3. Clone the Repository
-Clone the Habit Tracker repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/habit-tracker.git
-cd habit-tracker
-```
-
  4. Install Dependencies
 Use `pip` to install the required Python packages:
 
